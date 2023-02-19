@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\bin\Debug\Bar.exe.config
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\bin\Debug\Bar.exe
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\bin\Debug\Bar.pdb
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\obj\Debug\Bar.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\obj\Debug\Bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\obj\Debug\Bar.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\obj\Debug\Bar.exe
+C:\Users\ALUMNO\Documents\JC\Bar\Bar\obj\Debug\Bar.pdb
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\obj\Debug\Bar.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\obj\Debug\Bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\obj\Debug\Bar.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\obj\Debug\Bar.exe
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\obj\Debug\Bar.pdb
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\bin\Debug\Bar.exe.config
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\bin\Debug\Bar.exe
+C:\Users\jordy\OneDrive\Documentos\JC\Bar\Bar\bin\Debug\Bar.pdb
